@@ -1,0 +1,8 @@
+@import '../static/icon/index.css';
+@font-face {
+	font-family: 'DIN';
+	src: url('https://res.mp.carboxes.cn/static/fonts/din.ttf') format('truetype');
+}
+.din {
+	font-family: 'DIN';
+}

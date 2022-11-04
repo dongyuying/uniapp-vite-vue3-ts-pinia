@@ -1,0 +1,439 @@
+/* .icoi-add {
+  width: 64px; height: 64px;
+  background-position: -338px -106px;
+}
+
+.icoi-cbc_find {
+  width: 100px; height: 100px;
+  background-position: -130px -2px;
+}
+
+.icoi-cbc_vajra {
+  width: 64px; height: 64px;
+  background-position: -338px -174px;
+}
+
+.icoi-collide {
+  width: 100px; height: 100px;
+  background-position: -2px -130px;
+}
+
+.icoi-counter {
+  width: 100px; height: 100px;
+  background-position: -106px -130px;
+}
+
+.icoi-crown {
+  width: 32px; height: 32px;
+  background-position: -406px -106px;
+}
+
+.icoi-home {
+  width: 48px; height: 48px;
+  background-position: -70px -338px;
+}
+
+.icoi-home_o {
+  width: 48px; height: 48px;
+  background-position: -122px -338px;
+}
+
+.icoi-intro {
+  width: 100px; height: 100px;
+  background-position: -234px -2px;
+}
+
+.icoi-launch {
+  width: 100px; height: 100px;
+  background-position: -234px -106px;
+}
+
+.icoi-me {
+  width: 48px; height: 48px;
+  background-position: -174px -338px;
+}
+
+.icoi-me_o {
+  width: 48px; height: 48px;
+  background-position: -226px -338px;
+}
+
+.icoi-oneself {
+  width: 100px; height: 100px;
+  background-position: -2px -234px;
+}
+
+.icoi-portrait {
+  width: 124px; height: 124px;
+  background-position: -2px -2px;
+}
+
+.icoi-price {
+  width: 100px; height: 100px;
+  background-position: -106px -234px;
+}
+
+.icoi-purchase {
+  width: 64px; height: 64px;
+  background-position: -338px -242px;
+}
+
+.icoi-repair {
+  width: 100px; height: 100px;
+  background-position: -210px -234px;
+}
+
+.icoi-service {
+  width: 48px; height: 48px;
+  background-position: -278px -338px;
+}
+
+.icoi-service_o {
+  width: 48px; height: 48px;
+  background-position: -330px -338px;
+}
+
+.icoi-shop {
+  width: 64px; height: 64px;
+  background-position: -2px -338px;
+}
+
+.icoi-way {
+  width: 100px; height: 100px;
+  background-position: -338px -2px;
+}
+
+.icoi-address {
+  width: 48px; height: 48px;
+  background-position: -382px -338px;
+} */
+
+
+
+
+
+
+
+
+
+/* .icoi-way {
+  width: 100px; height: 100px;
+  background-position: -130px -2px;
+}
+
+
+.icoi-add {
+  width: 64px; height: 64px;
+  background-position: -338px -192px;
+}
+
+
+.icoi-address {
+  width: 48px; height: 48px;
+  background-position: -138px -338px;
+}
+
+
+.icoi-cbc {
+  width: 48px; height: 48px;
+  background-position: -190px -338px;
+}
+
+
+.icoi-cbc_find {
+  width: 100px; height: 100px;
+  background-position: -2px -130px;
+}
+
+
+.icoi-cbc_o {
+  width: 48px; height: 48px;
+  background-position: -242px -338px;
+}
+
+
+.icoi-cbc_vajra {
+  width: 64px; height: 64px;
+  background-position: -338px -260px;
+}
+
+
+.icoi-collide {
+  width: 100px; height: 100px;
+  -position: -106px -130px;
+}
+
+
+.icoi-counter {
+  width: 100px; height: 100px;
+  background-position: -234px -2px;
+}
+
+
+.icoi-crown {
+  width: 32px; height: 32px;
+  background-position: -442px -210px;
+}
+
+
+.icoi-home {
+  width: 48px; height: 48px;
+  background-position: -294px -338px;
+}
+
+
+.icoi-home_o {
+  width: 48px; height: 48px;
+  background-position: -346px -338px;
+}
+
+
+.icoi-intro {
+  width: 100px; height: 100px;
+  background-position: -234px -106px;
+}
+
+
+.icoi-launch {
+  width: 100px; height: 100px;
+  background-position: -2px -234px;
+}
+
+
+.icoi-me {
+  width: 48px; height: 48px;
+  background-position: -442px -2px;
+}
+
+
+.icoi-me_o {
+  width: 48px; height: 48px;
+  background-position: -442px -54px;
+}
+
+
+.icoi-oneself {
+  width: 100px; height: 100px;
+  background-position: -106px -234px;
+}
+
+
+.icoi-portrait {
+  width: 124px; height: 124px;
+  background-position: -2px -2px;
+}
+
+
+.icoi-price {
+  width: 100px; height: 100px;
+  background-position: -210px -234px;
+}
+
+
+.icoi-purchase {
+  width: 64px; height: 64px;
+  background-position: -2px -338px;
+}
+
+
+.icoi-repair {
+  width: 100px; height: 100px;
+  background-position: -338px -2px;
+}
+
+
+.icoi-service {
+  width: 48px; height: 48px;
+  background-position: -442px -106px;
+}
+
+
+.icoi-service_o {
+  width: 48px; height: 48px;
+  background-position: -442px -158px;
+}
+
+
+.icoi-shop {
+  width: 64px; height: 64px;
+  background-position: -70px -338px;
+}
+
+
+.icoi-sxc {
+  width: 82px; height: 82px;
+  background-position: -338px -106px;
+} */
+
+.icoi-me_o {
+  width: 48px; height: 48px;
+  background: -138px -338px;
+}
+
+
+.icoi-oneself {
+  width: 100px; height: 100px;
+  background: -130px -2px;
+}
+
+
+.icoi-portrait {
+  width: 124px; height: 124px;
+  background: -2px -2px;
+}
+
+
+.icoi-price {
+  width: 100px; height: 100px;
+  background: -2px -130px;
+}
+
+
+.icoi-purchase {
+  width: 64px; height: 64px;
+  background: -338px -192px;
+}
+
+
+.icoi-service {
+  width: 48px; height: 48px;
+  background: -190px -338px;
+}
+
+
+.icoi-service_l {
+  width: 48px; height: 48px;
+  background: -242px -338px;
+}
+
+
+.icoi-service_o {
+  width: 48px; height: 48px;
+  background: -294px -338px;
+}
+
+
+.icoi-repair {
+  width: 100px; height: 100px;
+  background: -106px -130px;
+}
+
+
+.icoi-shop {
+  width: 64px; height: 64px;
+  background: -338px -260px;
+}
+
+
+.icoi-way {
+  width: 100px; height: 100px;
+  background: -234px -2px;
+}
+
+
+.icoi-sxc {
+  width: 82px; height: 82px;
+  background: -338px -106px;
+}
+
+
+.icoi-add {
+  width: 64px; height: 64px;
+  background: -2px -338px;
+}
+
+
+.icoi-address {
+  width: 48px; height: 48px;
+  background: -346px -338px;
+}
+
+
+.icoi-cbc {
+  width: 48px; height: 48px;
+  background: -442px -2px;
+}
+
+
+.icoi-cbc_find {
+  width: 100px; height: 100px;
+  background: -234px -106px;
+}
+
+
+.icoi-cbc_l {
+  width: 48px; height: 48px;
+  background: -442px -54px;
+}
+
+
+.icoi-cbc_o {
+  width: 48px; height: 48px;
+  background: -442px -106px;
+}
+
+
+.icoi-cbc_vajra {
+  width: 64px; height: 64px;
+  background: -70px -338px;
+}
+
+
+.icoi-collide {
+  width: 100px; height: 100px;
+  background: -2px -234px;
+}
+
+
+.icoi-counter {
+  width: 100px; height: 100px;
+  background: -106px -234px;
+}
+
+
+.icoi-crown {
+  width: 32px; height: 32px;
+  background: -442px -366px;
+}
+
+
+.icoi-home {
+  width: 48px; height: 48px;
+  background: -442px -158px;
+}
+
+
+.icoi-home_l {
+  width: 48px; height: 48px;
+  background: -442px -210px;
+}
+
+
+.icoi-home_o {
+  width: 48px; height: 48px;
+  background: -442px -262px;
+}
+
+
+.icoi-intro {
+  width: 100px; height: 100px;
+  background: -210px -234px;
+}
+
+
+.icoi-launch {
+  width: 100px; height: 100px;
+  background: -338px -2px;
+}
+
+
+.icoi-me {
+  width: 48px; height: 48px;
+  background: -442px -314px;
+}
+
+
+.icoi-me_l {
+  width: 48px; height: 48px;
+  background: -2px -406px;
+}

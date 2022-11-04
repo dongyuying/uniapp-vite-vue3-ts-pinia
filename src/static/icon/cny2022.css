@@ -1,0 +1,185 @@
+/**
+ * 2022新年样式(chinese new year)
+ */
+
+.cny2022 .icoi,
+.cny2022 .user-info-two .icof {
+    background-image: url('https://res.mp.carboxes.cn/static/cny2022/icoi.png?8');
+    zoom: 0.5 !important; /* UI出2倍图 */
+    font-family: unset !important;
+}
+
+.cny2022 .user-info-two .icof::before {
+    content: unset;
+}
+
+.cny2022 .user-card-box {
+    background-color: #A5000E !important;
+}
+
+.cny2022 .desk-item-value {
+    color: #A5000E !important;
+}
+
+.cny2022 .desk-item-key {
+    background-color: #FFF0F2 !important;
+}
+
+@keyframes scale-down {
+    0% {
+        opacity: 0;
+        transform: scale(1.8)
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1)
+    }
+}
+
+.cny2022 .van-tabbar-item image {
+    width: 30px; 
+    height: 30px;
+    animation-name: scale-down;
+    animation-duration: .3s;
+    animation-timing-function: linear
+}
+.cny2022 .van-tabbar-item .icoi {
+    opacity: 0.75;
+}
+
+.cny2022 .van-tabbar-item .active {
+    color: #F52A48 !important;
+}
+
+/** 图标 */
+
+.cny2022 .icoi-service_o {
+    width: 60px; height: 60px;
+    background-position: -106px -360px;
+}
+.cny2022 .icoi-shop {
+    width: 120px; height: 123px;
+    background-position: -2px -2px;
+}
+.cny2022 .icoi-wallett,
+.cny2022 .icof-wallett {
+    width: 34px; height: 34px;
+    background-position: -374px -314px;
+}
+.cny2022 .icoi-way {
+    width: 100px; height: 100px;
+    background-position: -126px -129px;
+}
+.cny2022 .icoi-activity, 
+.cny2022 .icof-activity {
+    width: 34px; height: 34px;
+    background-position: -412px -314px;
+}
+.cny2022 .icoi-add {
+    width: 120px; height: 123px;
+    background-position: -126px -2px;
+}
+.cny2022 .icoi-bill, 
+.cny2022 .icof-bill {
+    width: 34px; height: 34px;
+    background-position: -334px -129px;
+}
+.cny2022 .icoi-cbc_find {
+    width: 100px; height: 100px;
+    background-position: -230px -129px;
+}
+.cny2022 .icoi-cbc_reveal, 
+.cny2022 .icof-cbc_reveal {
+    width: 34px; height: 34px;
+    background-position: -334px -167px;
+}
+.cny2022 .icoi-cbc_vajra {
+    width: 120px; height: 123px;
+    background-position: -250px -2px;
+}
+.cny2022 .icoi-collide {
+    width: 100px; height: 100px;
+    background-position: -2px -256px;
+}
+.cny2022 .icoi-counter {
+    width: 100px; height: 100px;
+    background-position: -106px -256px;
+}
+.cny2022 .icoi-coupon, 
+.cny2022 .icof-coupon {
+    width: 34px; height: 34px;
+    background-position: -314px -256px;
+}
+.cny2022 .icoi-customer, 
+.cny2022 .icof-customer {
+    width: 34px; height: 34px;
+    background-position: -314px -294px;
+}
+.cny2022 .icoi-feedback, 
+.cny2022 .icof-feedback {
+    width: 34px; height: 34px;
+    background-position: -298px -360px;
+}
+.cny2022 .icoi-garage, 
+.cny2022 .icof-garage {
+    width: 34px; height: 34px;
+    background-position: -336px -360px;
+}
+.cny2022 .icoi-home_o {
+    width: 60px; height: 60px;
+    background-position: -170px -360px;
+}
+.cny2022 .icoi-install,
+.cny2022 .icof-install {
+    width: 34px; height: 34px;
+    background-position: -374px -360px;
+}
+.cny2022 .icoi-intro {
+    width: 100px; height: 100px;
+    background-position: -210px -256px;
+}
+.cny2022 .icoi-invitation
+.cny2022 .icof-invitation {
+    width: 34px; height: 34px;
+    background-position: -412px -360px;
+}
+.cny2022 .icoi-launch {
+    width: 100px; height: 100px;
+    background-position: -374px -2px;
+}
+.cny2022 .icoi-me_o {
+    width: 60px; height: 60px;
+    background-position: -234px -360px;
+}
+.cny2022 .icoi-oneself {
+    width: 100px; height: 100px;
+    background-position: -374px -106px;
+}
+.cny2022 .icoi-order, 
+.cny2022 .icof-order {
+    width: 34px; height: 34px;
+    background-position: -106px -424px;
+}
+.cny2022 .icoi-personnel, 
+.cny2022 .icof-personnel {
+    width: 34px; height: 34px;
+    background-position: -144px -424px;
+}
+.cny2022 .icoi-price {
+    width: 100px; height: 100px;
+    background-position: -374px -210px;
+}
+.cny2022 .icoi-purchase {
+    width: 120px; height: 123px;
+    background-position: -2px -129px;
+}
+.cny2022 .icoi-repair {
+    width: 100px; height: 100px;
+    background-position: -2px -360px;
+}
+.cny2022 .icoi-report, 
+.cny2022 .icof-report {
+    width: 34px; height: 34px;
+    background-position: -182px -424px;
+}
